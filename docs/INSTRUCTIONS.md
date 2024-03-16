@@ -1,5 +1,5 @@
 
-# Proof of Concept - Zero State
+# Zero State
 
 Zero State ontwerpen voor een data driven online concept voor een opdrachtgever
 
