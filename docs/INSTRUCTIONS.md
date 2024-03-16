@@ -1,7 +1,7 @@
 
 # Zero State
 
-Zero State ontwerpen voor een data driven online concept voor een opdrachtgever
+Ontwerp een Zero State
 
 ## Context
 
