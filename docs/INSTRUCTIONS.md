@@ -51,14 +51,6 @@ Bezoekers van jouw website stellen zichzelf een aantal vragen: Is dat wat ik zoe
 
 ## Criteria
 
-Focus sprint 12 - Je gebruikt API's en databases voor het ontwerpen en ontwikkelen van gebruiksvriendelijke interactieve toepassingen voor het web.
-
-Deze leertaak hoort bij het gedragscriterium:
-
-P: Je combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
-
-P: Je schetst om gedachten en processen te verkennen ~~en abstracte begrippen over te brengen~~.
-
 Deze opdracht is done als:
 
 - [ ] Er zijn meerdere schetsen van een Zero State gemaakt waarin is geexperimenteerde met Visuele Hierarchie 
